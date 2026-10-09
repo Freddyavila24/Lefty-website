@@ -39,6 +39,10 @@ img {
   width: min(1280px, calc(100% - 112px));
   margin-inline: auto;
 }
+.orange {
+ color: #ce806a; 
+}
+
 
 .site-header {
   height: 88px;
@@ -424,6 +428,8 @@ h2 {
 .services-intro .button {
   margin-top: 2px;
 }
+
+
 
 .about {
   display: grid;
